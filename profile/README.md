@@ -1,5 +1,6 @@
 # PrivacyPoll
-
+## A privacy-preserving voting system based on Blockchain and Zero-Knowledge Proof technology. 
+Developed at the HackWesTX 2023 Hackathon. 
 
 
 <!--
