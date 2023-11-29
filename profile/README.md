@@ -1,7 +1,7 @@
 # **PrivacyPoll**
 ### What is Privacy Poll?
 A privacy-preserving voting system based on **Blockchain** and **Zero-Knowledge Proof** technology.
-This project was initially developed at the HackWesTX 2023 Hackathon, and updated many times since then.
+This project was initially developed at the HackWesTX 2023 Hackathon.
 
 <!--
 
